@@ -1,2 +1,2 @@
 # StudentsManagment
-This is a student management system
+This is a student management system. I use this to practice my SPA skills. I uses js's xmlhttprequest to fetch php's responesible data from Mysql database. It works very well on my localhost server. Unfortunately I put this code on my free website, it has not responsible reactions. I guess it is the response is too slow from the database and web site can't catch the updated data immedately. However it still can work on the local server, and I will keep tring to figure how to improve the situation.  
